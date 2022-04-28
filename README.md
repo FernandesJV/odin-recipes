@@ -1,1 +1,2 @@
 # odin-recipes
+Project created while studying odin project web dev curriculum, in this project is shown the use of basic html elements and use of git repository. The objective is to vreate a simple recipes site.
